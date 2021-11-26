@@ -12,7 +12,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="hacker | twitter" width="22px" src="https://twitter.com/0xilovecat" />][twitter]
+[<img align="left" alt="twitter" width="22px" src="https://twitter.com/0xilovecat" />][twitter]
 
 
 ### Languages and Tools:
