@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+0x41haz+here...)](https://git.io/typing-svg)
 
- ![0x41haz's github stats](https://github-readme-stats.vercel.app/api?username=0x41haz&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
+![0x41haz's github stats](https://github-readme-stats.vercel.app/api?username=0x41haz&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41haz&hide=&layout=compact&theme=dark)
 
 ## I'm a student, Creator ...
