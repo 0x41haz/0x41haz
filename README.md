@@ -3,6 +3,7 @@
 ![Alhajuddin's github stats](https://github-readme-stats.vercel.app/api?username=0x41haz&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41haz&hide=&layout=compact&theme=dark)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0x41haz" alt="0x41haz" /> </p>
 
 ## I'm a student, Creator ...
 - 🔭 I’m currently working on my first pyhton project.
