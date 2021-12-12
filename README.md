@@ -26,21 +26,6 @@
 
 <br />
 <br />
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="0x41haz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x41haz&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="0x41haz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x41haz" />
-
-</details>
 
 [youtube]:https://t.co/KhlM09resY?amp=1
 [twitter]: https://twitter.com/0xilovecat
