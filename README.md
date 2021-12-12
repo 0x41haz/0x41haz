@@ -2,6 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/0x41haz/0x41haz/blob/main/designergif.gif?raw=true" width="500" height="320" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41haz&hide=&layout=compact&theme=dark)
 
 ## I'm a student, Creator ...
 - 🔭 I’m currently working on my first pyhton project.
