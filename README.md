@@ -1,6 +1,6 @@
 ### Hello World, I'm 0x41haz 👋
 
- <img align="right" alt="GIF" src="https://github.com/0x41haz/0x41haz/blob/main/designergif.gif?raw=true" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://github.com/0x41haz/0x41haz/blob/main/designergif.gif?raw=true" width="500" height="320" />
  
 ![Alhajuddin's github stats](https://github-readme-stats.vercel.app/api?username=0x41haz&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
 
