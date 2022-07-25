@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41haz&hide=&layout=compact&theme=dark)
 
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/ctf789.png" alt="TryHackMe">][TryHackMe]
+<img src="https://tryhackme-badges.s3.amazonaws.com/ctf789.png" alt="TryHackMe">
 ## I'm a student, Creator ...
 - 🔭 I’m currently working on my first pyhton project.
 - 🌱 I’m currently learning binary Exploitation
