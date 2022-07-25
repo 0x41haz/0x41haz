@@ -3,7 +3,7 @@
 ![0x41haz's github stats](https://github-readme-stats.vercel.app/api?username=0x41haz&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41haz&hide=&layout=compact&theme=dark)
 
-<script src="https://tryhackme.com/badge/477901"></script>
+![TRYHACKME](https://tryhackme.com/badge/477901)
 
 
 ## I'm a student, Creator ...
