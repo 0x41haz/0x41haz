@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41haz&hide=&layout=compact&theme=dark)
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ctf789.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/ctf789.png/badge/477901" alt="TryHackMe">
 <img src="https://tryhackme.com/badge/477901" alt="TryHackMe">
 
 
