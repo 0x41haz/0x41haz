@@ -6,8 +6,10 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ctf789.png" alt="TryHackMe">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CTF-Player)](https://git.io/typing-svg)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ask-Me-Anything..)](https://git.io/typing-svg)
 
 ## I'm a student, Creator ...
 - 🔭 currently working on my first pyhton project.
