@@ -10,9 +10,9 @@
 
 
 ## I'm a student, Creator ...
-- 🔭 I’m currently working on my first pyhton project.
-- 🌱 I’m currently learning binary Exploitation
-- 👯 I’m looking to collaborate on open source
+- 🔭 currently working on my first pyhton project.
+- 🌱 currently learning binary Exploitation
+- 👯 looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/his
 
